@@ -1,4 +1,10 @@
 # Aktabarni App
+
+<div align="left">
+  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/109272922/c8677d08-71d2-464b-bb44-7ab47d5d317b"  />
+</div>
+
+
 ## Tuwaiq Final Project
 Every student has gone through a stage of not being sure of their study, and certainly, you were also not sure that you had studied the material well. Yes, you needed someone to test you in your subjects.
 
@@ -12,9 +18,39 @@ This is the idea of our application. We use artificial intelligence to test you 
 
 - Set up their calendar so they can keep track of their actual exams!
 
-##  TEAM
-
-
 ## SOFTWARE ENVIRONMENT
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" height="40" alt="supabase logo"  />
+</div>
+
+
+##  Team Members
+
+  <a href="https://github.com/Lama-Aldhafeeri">Lama Aldhafeeri</a>
+  <h5>Team leader :
+I worked on the....<h5/>
+  
+
+  <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
+    <h5>Team member:
+I worked on the....<h5/>
+
+  <a href="https://github.com/AbrarSaud">Abrar Alotaibi</a>
+    <h5>Team member:
+ I participated with my team on the back-end part of the project , I worked on the front end part of the project, such as:<br>
+-Login <br>
+-Signup<br>
+-Create Exam<h5/>
+ 
+  <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
+      <h5>Team member:
+I worked on the....<h5/>
 
