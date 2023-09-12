@@ -1,7 +1,7 @@
 # Aktabarni App
 
 <div align="left">
-  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/109272922/c8677d08-71d2-464b-bb44-7ab47d5d317b"  />
+  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/109272922/c2295033-b7ae-4688-9bed-ce1f19bea23b"  />
 </div>
 
 
