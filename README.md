@@ -49,7 +49,7 @@ I worked on the....<h5/>
 -Login <br>
 -Signup<br>
 -Create Exam
--Result <h5/>
+-Result Screen<h5/>
  
   <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
       <h5>Team member:
