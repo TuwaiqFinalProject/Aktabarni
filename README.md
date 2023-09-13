@@ -66,6 +66,13 @@ I worked on the....<h5/>
 <h5/>  
  
   <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
-      <h5>Team member:
-I worked on the....<h5/>
+   <br> CV: [CV-3.pdf](https://github.com/TuwaiqFinalProject/Aktabarni/files/12599517/CV-3.pdf)
+ <h5>Team member:
+I worked on the front end part of the project, such as:<br>
+-Profile Screen <br>
+-Profile Edit <br>
+- App Theme  <br>
+-Profile Custom components <br>
+-Work on part of the creation of a database <br>
+
 
