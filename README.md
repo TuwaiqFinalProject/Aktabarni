@@ -29,6 +29,9 @@ This is the idea of our application. We use artificial intelligence to test you 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" height="40" alt="supabase logo"  />
+   <img src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/84765301/de501e04-9024-4f4d-b581-c350546ddb1a" height="40" alt="openAI logo"  />
+  
+
 </div>
 
 
