@@ -35,7 +35,7 @@ This is the idea of our application. We use artificial intelligence to test you 
 ##  Team Members
 
   <a href="https://github.com/Lama-Aldhafeeri">Lama Aldhafeeri</a>
-  <h5>Team leader :<br>
+  <h5>Team leader :
 I worked on both backend and frontend, I dealt with api and database, also design ui and animation such as:<br>
   -Splash Screen<br> 
   -Home Screen <br> 
@@ -44,11 +44,11 @@ I worked on both backend and frontend, I dealt with api and database, also desig
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
-    <h5>Team member:<br>
+    <h5>Team member:
 I worked on the....<h5/>
 
   <a href="https://github.com/AbrarSaud">Abrar Alotaibi</a>
-    <h5>Team member:<br>
+    <h5>Team member:
  I participated with my team on the back-end part of the project , I worked on the front end part of the project, such as:<br>
 -Login <br>
 -Signup<br>
@@ -57,6 +57,6 @@ I worked on the....<h5/>
 -Custom components<h5/>
  
   <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
-      <h5>Team member:<br>
+      <h5>Team member:
 I worked on the....<h5/>
 
