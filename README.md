@@ -41,6 +41,7 @@ I worked on both backend and frontend, I dealt with api and database, also desig
   -Home Screen <br> 
   -Loading Screen with animation <br>
   -Custom components<h5/>
+<a href="https://drive.google.com/file/d/1IG8-vuQ8_WBRarMm0YMP2vvt9i8gqpKY/view?usp=sharing"> CV </a>
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
