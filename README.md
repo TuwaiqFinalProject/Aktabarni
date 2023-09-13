@@ -36,7 +36,7 @@ This is the idea of our application. We use artificial intelligence to test you 
 
   <a href="https://github.com/Lama-Aldhafeeri">Lama Aldhafeeri</a>
   <h5>Team leader :
-I worked on the....<h5/>
+I worked on both backend and frontend, I dealt with api and database, also design ui and animation such as: splash page, home page, loading page with animation, and custom components<h5/>
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
