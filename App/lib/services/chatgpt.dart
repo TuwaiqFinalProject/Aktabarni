@@ -10,9 +10,8 @@ import 'package:file_picker/file_picker.dart';
 
 class GPTService {
   static const url = 'https://api.openai.com/v1/chat/completions';
-  static const key =
-      'Bearer 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';
-  static const org = 'org-RWgnKcD3AuoCVZlolftghmbE';
+  static const key = '---';
+  static const org = '---';
   File? selectedPdf;
 
   Future<Exam> getExam() async {
