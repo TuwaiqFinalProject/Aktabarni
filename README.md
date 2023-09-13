@@ -44,8 +44,9 @@ I worked on both backend and frontend, I dealt with api and database, also desig
   -Home Screen <br> 
   -Loading Screen with animation <br>
   -Custom components <br>
-    <a href="https://drive.google.com/file/d/1IG8-vuQ8_WBRarMm0YMP2vvt9i8gqpKY/view?usp=sharing"> CV </a><br>
+    <a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12601050/Lama_Aldhafeeri_Resume_13-09-2023-21-52-36.pdf"> CV </a><br>
     <h5/> 
+    
 
   
 
@@ -62,6 +63,7 @@ I worked on the....<h5/>
 -Result Screen<br> 
 -Custom components  <br>
 <a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12600061/Abrar.Alotaibi.s.Resume.3.pdf"> CV </a> <br>
+
 
 
 <h5/>  
