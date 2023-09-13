@@ -1,7 +1,7 @@
 # Aktabarni App
 
 <div align="left">
-  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/109272922/c8677d08-71d2-464b-bb44-7ab47d5d317b"  />
+  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/109272922/c2295033-b7ae-4688-9bed-ce1f19bea23b"  />
 </div>
 
 
@@ -29,6 +29,9 @@ This is the idea of our application. We use artificial intelligence to test you 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" height="40" alt="supabase logo"  />
+   <img src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/84765301/de501e04-9024-4f4d-b581-c350546ddb1a" height="40" alt="openAI logo"  />
+  
+
 </div>
 
 
@@ -36,7 +39,14 @@ This is the idea of our application. We use artificial intelligence to test you 
 
   <a href="https://github.com/Lama-Aldhafeeri">Lama Aldhafeeri</a>
   <h5>Team leader :
-I worked on the....<h5/>
+I worked on both backend and frontend, I dealt with api and database, also design ui and animation such as:<br>
+  -Splash Screen<br> 
+  -Home Screen <br> 
+  -Loading Screen with animation <br>
+  -Custom components <br>
+    <a href="https://drive.google.com/file/d/1IG8-vuQ8_WBRarMm0YMP2vvt9i8gqpKY/view?usp=sharing"> CV </a><br>
+    <h5/> 
+
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
@@ -48,7 +58,12 @@ I worked on the....<h5/>
  I participated with my team on the back-end part of the project , I worked on the front end part of the project, such as:<br>
 -Login <br>
 -Signup<br>
--Create Exam<h5/>
+-Create Exam <br>
+-Result Screen<br> 
+-Custom components  <br>
+<a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12595574/Abrar.Alotaibi.s.Resume.pdf"> CV </a> <br>
+
+<h5/>  
  
   <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
       <h5>Team member:
