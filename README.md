@@ -1,7 +1,7 @@
 # Aktabarni App
 
 <div align="left">
-  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/109272922/c2295033-b7ae-4688-9bed-ce1f19bea23b"  />
+  <img height="100" src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/84765301/e068a56e-b1b3-4800-b9d9-b9b67b0906cb"  />
 </div>
 
 
@@ -29,7 +29,7 @@ This is the idea of our application. We use artificial intelligence to test you 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" height="40" alt="supabase logo"  />
-   <img src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/84765301/de501e04-9024-4f4d-b581-c350546ddb1a" height="40" alt="openAI logo"  />
+   <img src="https://github.com/TuwaiqFinalProject/Aktabarni/assets/84765301/aa3c030b-306d-45d0-ab02-4ea2fee52cc0" height="40" alt="openAI logo"  />
   
 
 </div>
@@ -61,7 +61,8 @@ I worked on the....<h5/>
 -Create Exam <br>
 -Result Screen<br> 
 -Custom components  <br>
-<a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12595574/Abrar.Alotaibi.s.Resume.pdf"> CV </a> <br>
+<a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12600061/Abrar.Alotaibi.s.Resume.3.pdf"> CV </a> <br>
+
 
 <h5/>  
  
