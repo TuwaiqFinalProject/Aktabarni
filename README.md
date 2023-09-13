@@ -65,9 +65,9 @@ I worked on the....<h5/>
 
 <h5/>  
  
-  <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
+  <a href="https://github.com/Malshehrim">Mohammed Alshehri</a> <br>
    <br> CV: [CV-3.pdf](https://github.com/TuwaiqFinalProject/Aktabarni/files/12599517/CV-3.pdf)
- <h5>Team member: <br>
+ <h5>Team member: <br> <br>
 I worked on the part of the front end, such as:<br>
 -Profile Screen <br>
 -Profile Edit <br>
