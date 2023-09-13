@@ -35,23 +35,28 @@ This is the idea of our application. We use artificial intelligence to test you 
 ##  Team Members
 
   <a href="https://github.com/Lama-Aldhafeeri">Lama Aldhafeeri</a>
-  <h5>Team leader :
-I worked on both backend and frontend, I dealt with api and database, also design ui and animation such as: splash page, home page, loading page with animation, and custom components<h5/>
+  <h5>Team leader :<br>
+I worked on both backend and frontend, I dealt with api and database, also design ui and animation such as:<br>
+  -Splash Screen<br> 
+  -Home Screen <br> 
+  -Loading Screen with animation <br>
+  -Custom components<h5/>
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
-    <h5>Team member:
+    <h5>Team member:<br>
 I worked on the....<h5/>
 
   <a href="https://github.com/AbrarSaud">Abrar Alotaibi</a>
-    <h5>Team member:
+    <h5>Team member:<br>
  I participated with my team on the back-end part of the project , I worked on the front end part of the project, such as:<br>
 -Login <br>
 -Signup<br>
 -Create Exam <br>
--Result Screen<h5/>
+-Result Screen<br>
+-Custom components<h5/>
  
   <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
-      <h5>Team member:
+      <h5>Team member:<br>
 I worked on the....<h5/>
 
