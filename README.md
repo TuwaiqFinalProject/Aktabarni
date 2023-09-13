@@ -61,7 +61,8 @@ I worked on the....<h5/>
 -Create Exam <br>
 -Result Screen<br> 
 -Custom components  <br>
-<a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12595574/Abrar.Alotaibi.s.Resume.pdf"> CV </a> <br>
+<a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12600061/Abrar.Alotaibi.s.Resume.3.pdf"> CV </a> <br>
+
 
 <h5/>  
  
