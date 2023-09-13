@@ -40,8 +40,10 @@ I worked on both backend and frontend, I dealt with api and database, also desig
   -Splash Screen<br> 
   -Home Screen <br> 
   -Loading Screen with animation <br>
-  -Custom components<h5/> 
-<a href="https://drive.google.com/file/d/1IG8-vuQ8_WBRarMm0YMP2vvt9i8gqpKY/view?usp=sharing"> CV </a><br>
+  -Custom components <br>
+    <a href="https://drive.google.com/file/d/1IG8-vuQ8_WBRarMm0YMP2vvt9i8gqpKY/view?usp=sharing"> CV </a><br>
+    <h5/> 
+
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
@@ -55,8 +57,10 @@ I worked on the....<h5/>
 -Signup<br>
 -Create Exam <br>
 -Result Screen<br> 
--Custom components<h5/>  
+-Custom components  <br>
 <a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12595574/Abrar.Alotaibi.s.Resume.pdf"> CV </a> <br>
+
+<h5/>  
  
   <a href="https://github.com/Malshehrim">Mohammed Alshehri</a>
       <h5>Team member:
