@@ -39,12 +39,12 @@ This is the idea of our application. We use artificial intelligence to test you 
 
   <a href="https://github.com/Lama-Aldhafeeri">Lama Aldhafeeri</a>
   <h5>Team leader :
-I worked on both backend and frontend, I dealt with api and database, also design ui and animation such as:<br>
+I worked on both backend and frontend, I dealt with api and database, and I used bloc state management, also design ui and animation such as:<br>
   -Splash Screen<br> 
   -Home Screen <br> 
   -Loading Screen with animation <br>
   -Custom components <br>
-    <a href="https://github.com/TuwaiqFinalProject/Aktabarni/files/12601050/Lama_Aldhafeeri_Resume_13-09-2023-21-52-36.pdf"> CV </a><br>
+    <a href="https://drive.google.com/drive/folders/1uBmCM1mWBSM4pCeDAblf7MNmkCTAt5A5?usp=drive_link"> CV </a><br>
     <h5/> 
     
 
