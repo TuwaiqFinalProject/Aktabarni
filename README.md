@@ -51,8 +51,9 @@ I worked on both backend and frontend, I dealt with api and database, and I used
   
 
   <a href="https://github.com/Alawashez2">Mohammed Alawashiz</a>
-    <h5>Team member:
-I worked on the....<h5/>
+  
+  <a href="https://drive.google.com/file/d/13v5KYz_PHA-q0CiGX-sfrqyh1gBt5ZEu/view?usp=drive_link">CV</a> 
+  <h5>Team member: I worked on integration and logic function, integrate with supabase , using bolc state management <h5/>
 
   <a href="https://github.com/AbrarSaud">Abrar Alotaibi</a>
     <h5>Team member:
